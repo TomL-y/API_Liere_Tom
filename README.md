@@ -13,6 +13,6 @@ QuickSort : Tri rapide
 ## tab (Tableau) : 
 Un tableau de données que vous souhaitez trier. Le tableau doit être au format JSON.
 
-Exemple d'URL : http://localhost/API/index.php/?tri=BubbleSort&tab=[4,5,8,7,1,23]
-
 # Liere Tom
+
+Exemple d'URL : http://localhost/API/public/index.php/?tri=BubbleSort&tab=[4,5,8,7,15,1,23]
